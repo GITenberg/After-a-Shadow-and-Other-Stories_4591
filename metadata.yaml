@@ -1,0 +1,35 @@
+_repo: After-a-Shadow-and-Other-Stories_4591
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: After a shadow -- In the way of temptation -- Andy Lovell -- A mystery
+  explained -- What can I do? -- On guard -- A visit with the doctor -- Hadn't time
+  for trouble -- A good name -- Little Lizzie -- Alice and the pigeon -- Dressed for
+  a party -- Coffee vs. brandy -- Amy's question -- An angel in disguise -- Which
+  was most the lady? -- Other people's eyes.
+title: After a Shadow and Other Stories
+url: http://www.gutenberg.org/ebooks/4591
